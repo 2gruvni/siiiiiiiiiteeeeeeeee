@@ -1,0 +1,25 @@
+.new {
+    background-color: rgb(149, 228, 149);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.new-img {
+    width: 100%;
+    border-radius: 15px;
+}
+.new-link {
+    text-decoration: dotted;
+    background-color: rgb(107, 167, 72);
+    color: aliceblue;
+    padding: 15px;
+    display: inline-block;
+    transition: 0.5s;
+}
+.new-link:hover {
+    background-color: rgb(114, 114, 170);
+    border-radius: 20px;
+}
+.new-link:active {
+    background-color: brown;
+}
